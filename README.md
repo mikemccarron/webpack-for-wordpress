@@ -1,0 +1,1 @@
+# Webpack HMR for Wordpress Plugin
